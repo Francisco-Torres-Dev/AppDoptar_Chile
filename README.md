@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐾 AppDoptar Chile - Taller Aplicado de Programación
 
 ![Android](https://img.shields.io/badge/Platform-Android-brightgreen.svg) 
@@ -81,3 +82,7 @@ erDiagram
         float longitud 
         datetime fecha_reporte 
     }
+=======
+# AppDoptar_Chile
+App para adopcion de mascotas y diferentes tipos de urgencias y ayudas animales proyecto portafolio app android estudio
+>>>>>>> 4135443176c308fc23bed28e2c34a614c73a21cc
